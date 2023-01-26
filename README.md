@@ -1,20 +1,19 @@
 ## Fuck advertisement
-
-
 ### 去广告广告规则 PC&Android、Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）
-<br>#################################################<br>
-<br><br>1、ad-pc.txt：[推荐桌面端]合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance，以及补充的一些规则；
+### 收集自互联网，仅做备份自用
+#################################################<br>
+1、ad-pc.txt：[推荐桌面端]合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance，以及补充的一些规则；
 <br><br>https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt
 <br><br>2、ad-mo.txt：合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance；
 <br><br>https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-mo.txt
-<br><br>ad.txt：【推荐】合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则；
-<br><br>3、https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad.txt
-<br><br>ad2.txt：合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance；
-<br><br>4、https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad2.txt
-<br><br>ad3.txt：合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy；
-<br><br>5、https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad3.txt
-<br><br>ad-edentw.txt：合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters。
-<br><br>6、https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-edentw.txt<br>#################################################
+<br><br>3、ad.txt：【推荐】合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则；
+<br><br>https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad.txt
+<br><br>4、ad2.txt：合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance；
+<br><br>https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad2.txt
+<br><br>5、ad3.txt：合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy；
+<br><br>https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad3.txt
+<br><br>6、ad-edentw.txt：合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters。
+<br><br>https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-edentw.txt<br>#################################################
 <br>1.乘风视频规则：https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt (国内主流视频网站)
 <br>2.EasyList：https://easylist.to/easylist/easylist.txt (反英文和国际网站广告)
 <br>3.EasyPrivacy：https://easylist.to/easylist/easyprivacy.txt （阻止跟踪保护隐私）
