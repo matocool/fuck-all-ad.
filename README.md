@@ -1,6 +1,6 @@
 ### Fuck advertisement forever forever  forever....
 ### 收集自互联网，仅做备份自用
-### 特别感谢
+### 特别感谢以下大佬的项目
 ### https://github.com/gorhill/uBlock
 ### https://github.com/o0HalfLife0o/list
 ##################################################################################################<br>
