@@ -27,7 +27,7 @@
 <br>2.anti-AD：https://anti-ad.net/easylist.txt
 <br>3.EasyList：https://easylist-downloads.adblockplus.org/easyprivacy.txt
 <br>4.ADgk：https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
-#################################################<br>
+##################################################################################################<br>
 去广告效果检测网站<br>
 1.https://checkadblock.ru/<br>
 2.https://blockads.fivefilters.org/<br>
