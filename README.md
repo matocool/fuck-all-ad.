@@ -1,8 +1,20 @@
-### Fuck advertisement forever forever  forever....
-### 收集自互联网，仅做备份自用
-### 特别感谢以下大佬的项目
-### https://github.com/gorhill/uBlock
-### https://github.com/o0HalfLife0o/list
+# Fuck advertisement forever forever  forever....
+# 收集自互联网，仅做备份自用
+#################################################
+### 参考资料
+https://github.com/o0HalfLife0o/list<br>
+https://github.com/gorhill/uBlock<br>
+https://github.com/uBlockOrigin/uAssets<br>
+https://github.com/otobtc/ADhosts<br>
+https://github.com/cjx82630/cjxlist<br>
+https://github.com/hectorm/hblock<br>
+https://github.com/vokins/yhosts<br>
+https://github.com/StevenBlack/hosts<br>
+https://ublock.org/<br>
+https://github.com/easylist/easylist/<br>
+https://github.com/privacy-protection-tools/anti-AD<br>
+https://easylist.to/<br>#################################################
+
 <br><br><br>#################################################<br>
 1、ad-pc.txt：[推荐桌面端]合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance，以及补充的一些规则；
 <br>https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt
@@ -36,3 +48,6 @@
 1.https://checkadblock.ru/<br>
 2.https://blockads.fivefilters.org/<br>
 3.https://canyoublockit.com/extreme-test/<br>#################################################
+
+
+
