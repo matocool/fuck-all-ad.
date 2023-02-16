@@ -1,6 +1,6 @@
 # Fuck advertisement forever forever  forever....
 # 收集自互联网，仅做备份自用
-#################################################
+
 ### 参考资料
 https://github.com/o0HalfLife0o/list<br>
 https://github.com/gorhill/uBlock<br>
@@ -10,12 +10,11 @@ https://github.com/cjx82630/cjxlist<br>
 https://github.com/hectorm/hblock<br>
 https://github.com/vokins/yhosts<br>
 https://github.com/StevenBlack/hosts<br>
-https://ublock.org/<br>
 https://github.com/easylist/easylist/<br>
 https://github.com/privacy-protection-tools/anti-AD<br>
-https://easylist.to/<br>#################################################
-
-<br><br><br>#################################################<br>
+https://easylist.to/<br>
+https://ublock.org/<br><br>
+#################################################<br>
 1、ad-pc.txt：[推荐桌面端]合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance，以及补充的一些规则；
 <br>https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt
 <br>2、ad-mo.txt：合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance；
